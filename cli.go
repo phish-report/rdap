@@ -17,13 +17,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/openrdap/rdap/bootstrap"
-	"github.com/openrdap/rdap/bootstrap/cache"
-	"github.com/openrdap/rdap/sandbox"
+	"phish.report/rdap/bootstrap"
+	"phish.report/rdap/bootstrap/cache"
+	"phish.report/rdap/sandbox"
 
 	"golang.org/x/crypto/pkcs12"
 
-	kingpin "gopkg.in/alecthomas/kingpin.v2"
+	"gopkg.in/alecthomas/kingpin.v2"
 )
 
 var (

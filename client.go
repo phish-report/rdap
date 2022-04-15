@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/openrdap/rdap/bootstrap"
+	"phish.report/rdap/bootstrap"
 )
 
 // Client implements an RDAP client.

@@ -7,7 +7,7 @@ package bootstrap
 import (
 	"testing"
 
-	"github.com/openrdap/rdap/test"
+	"phish.report/rdap/test"
 )
 
 func TestNetRegistryLookupsASN(t *testing.T) {

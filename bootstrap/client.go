@@ -97,7 +97,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/openrdap/rdap/bootstrap/cache"
+	"phish.report/rdap/bootstrap/cache"
 )
 
 // A RegistryType represents a bootstrap registry type.

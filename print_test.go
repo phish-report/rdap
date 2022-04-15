@@ -7,7 +7,7 @@ package rdap
 import (
 	"testing"
 
-	"github.com/openrdap/rdap/test"
+	"phish.report/rdap/test"
 )
 
 func TestPrintDomain(t *testing.T) {

@@ -1,4 +1,4 @@
-module github.com/openrdap/rdap
+module phish.report/rdap
 
 go 1.12
 

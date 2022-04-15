@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/openrdap/rdap/bootstrap"
+	"phish.report/rdap/bootstrap"
 )
 
 type Response struct {

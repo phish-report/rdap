@@ -8,7 +8,7 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/openrdap/rdap/test"
+	"phish.report/rdap/test"
 )
 
 func TestDownload(t *testing.T) {
